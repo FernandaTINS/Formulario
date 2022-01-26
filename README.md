@@ -1,5 +1,5 @@
 # Churrascômetro
-Programa feito para calcular quantidade de carnes e bebidas consumadas em churrasco de acordo com a quantidade de pessoas e hora.
+Programa feito para calcular quantidade de carnes e bebidas consumidas durante um churrasco de acordo com a quantidade de pessoas e hora.
 
 ## Feito Com:
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/pt-br/windows/get-windows-10)
