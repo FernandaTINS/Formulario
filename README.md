@@ -1,5 +1,5 @@
 # Formulário
-Programa feito para dar feedback.
+Modelo de formulário desenvolvido para deixar feedback.
 
 ## Feito Com:
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/pt-br/windows/get-windows-10)
